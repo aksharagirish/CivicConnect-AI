@@ -1,0 +1,6 @@
+{
+  "name": "CivicConnect AI Hub",
+  "description": "A hyperlocal problem solver that enables citizens to report infrastructure issues, auto-categorize reports using Gemini AI, track resolution, and build localized community action.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
